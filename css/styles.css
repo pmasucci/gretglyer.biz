@@ -1,0 +1,11 @@
+html, body, .container {
+ height: 100%;
+ font-family: arial;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
